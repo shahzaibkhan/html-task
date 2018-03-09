@@ -1,6 +1,6 @@
 Assignment #3:
 
-Tasks:
+Challenges:
 1. Create a p element.
 2. Your p element should have the text "Hello Paragraph".
 3. Make sure your p element has a closing tag.
