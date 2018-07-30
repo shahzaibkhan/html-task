@@ -1,0 +1,48 @@
+Challenge 1:
+<h1>Interns Program</h1>
+
+Challenge 2:
+<h2>Test for HTML Interns Program</h2>
+
+Challenge 3:
+<p>Its fun to learn HTML</p>
+
+Challenge 4:
+<h3>Oh! this is just for fun</h3>
+
+Challenge 5:
+<!--<h3>Oh! this is just for fun</h3>-->
+
+Challenge 6:
+<img src="http://via.placeholder.com" alt="placeholder">
+
+Challenge 7:
+<form>
+<input type="text" name="fullname" placeholder="Full Name">
+<input type="text" name="emailaddress" placeholder="Email Address">
+<input type="submit">
+</form>
+
+Challenge 8:
+<label><input type="checkbox" name="skill">html</label>
+<label><input type="checkbox" name="css">css</label>
+<label><input type="checkbox" name="javascript">javascript</label>
+
+Challenge 9:
+<label><input type="radio" name="education">Undergraduate</label>
+<label><input type="radio" name="education">Graduate</label>
+<label><input type="radio" name="education">Post Graduate</label>
+
+Challenge 10:
+<ol>
+<li>Week 1</li>
+<li>Week 2</li>
+<li>Week 3</li>
+</ol>
+
+Challenge 11:
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
