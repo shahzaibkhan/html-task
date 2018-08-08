@@ -16,14 +16,7 @@ Tasks to Achieve via JavaScript:
 
 Sample code for help: https://jsfiddle.net/shahzaib198/7v3psgo1/
 
-In the input field if you will place:
-
-
-<h1>Hello World</h1>
-<h2>CatPhotoApp</h2>
-
-Once you press run the text you will see that it will check for all the 4 test and will prompt you.
-
 To play, use this sample link: https://fiddle.jshell.net/shahzaib198/7v3psgo1/show/
+Once you press run the text you will see that it will check for all the sample test and will prompt you.
 
 So the above 13 tasks are the ones i want you to look into, the ones who clears the most will get the most points and so on.
