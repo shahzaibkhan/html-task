@@ -1,3 +1,5 @@
+Tasks to Achieve via JavaScript:
+
 1. Create a h2 element 
 2. Add style attribute to h2 element 
 3. Make the color of h2 attribute to red using style="color:red" 
