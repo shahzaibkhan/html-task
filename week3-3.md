@@ -37,3 +37,10 @@ Test Cases:
 16. myStr + "This is the end." 
 17. var lastName = "MyName";
 18. lastName.length;
+
+
+Sample code for help: https://jsfiddle.net/shahzaib198/7v3psgo1/
+
+To play, use this sample link: https://fiddle.jshell.net/shahzaib198/7v3psgo1/show/ Once you press run the text you will see that it will check for all the sample test and will prompt you.
+
+So the above 18 tasks are the ones i want you to look into, the ones who clears the most will get the most points and so on.
