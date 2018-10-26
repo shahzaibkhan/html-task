@@ -31,7 +31,7 @@ Test Cases:
 10. var varMul = var1 * var2;
 11. var varDivide = var4 / var2;
 12. var1++;
-13. var myDecimal = 5.7
+13. var myDecimal = 5.7;
 14. var myName = "ABC";
 15. var myStr = "This is the start. ";
 16. myStr + "This is the end." 
